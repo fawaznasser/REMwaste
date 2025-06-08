@@ -102,9 +102,12 @@ Don't panic! These are pretty standard tools that most developers have:
 #### Step 1: Get the Code
 ```bash
 # Clone this repository to your computer
-git clone <repository-url>
-cd skip-selector-redesign
+git clone https://github.com/fawaznasser/REMwaste.git
+cd REMwaste
 ```
+
+**Or try it instantly on CodeSandbox:**
+👉 **[Open in CodeSandbox](https://codesandbox.io/s/github/fawaznasser/REMwaste)** 👈
 
 #### Step 2: Install the Dependencies
 ```bash
